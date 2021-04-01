@@ -12,7 +12,6 @@ async function getMultiple() {
   const data = await db.query(
     ' SELECT  message_id, name, message, time from portfolioMessage WHERE message_id =1; '
   );
-
   // const data = await db.query(
   //   'SELECT firstname, lastname, country from testPortfolio WHERE message_id = 1 ;'
   // );
