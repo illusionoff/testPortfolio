@@ -1,2 +1,3 @@
 testMiniPcSshGit.txt
 test pull PC and push PC commit "test pull PC and push PC "
+test push nout commit "test push nout "
